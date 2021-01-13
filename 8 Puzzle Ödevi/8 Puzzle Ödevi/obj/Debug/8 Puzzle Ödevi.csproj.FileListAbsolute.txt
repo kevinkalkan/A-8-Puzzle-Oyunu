@@ -1,0 +1,20 @@
+C:\Users\Fudge\source\repos\8 Puzzle Ödevi\8 Puzzle Ödevi\bin\Debug\8 Puzzle Ödevi.exe.config
+C:\Users\Fudge\source\repos\8 Puzzle Ödevi\8 Puzzle Ödevi\bin\Debug\8 Puzzle Ödevi.exe
+C:\Users\Fudge\source\repos\8 Puzzle Ödevi\8 Puzzle Ödevi\bin\Debug\8 Puzzle Ödevi.pdb
+C:\Users\Fudge\source\repos\8 Puzzle Ödevi\8 Puzzle Ödevi\obj\Debug\8 Puzzle Ödevi.csprojAssemblyReference.cache
+C:\Users\Fudge\source\repos\8 Puzzle Ödevi\8 Puzzle Ödevi\obj\Debug\_8_Puzzle_Ödevi.Form1.resources
+C:\Users\Fudge\source\repos\8 Puzzle Ödevi\8 Puzzle Ödevi\obj\Debug\_8_Puzzle_Ödevi.Properties.Resources.resources
+C:\Users\Fudge\source\repos\8 Puzzle Ödevi\8 Puzzle Ödevi\obj\Debug\8 Puzzle Ödevi.csproj.GenerateResource.cache
+C:\Users\Fudge\source\repos\8 Puzzle Ödevi\8 Puzzle Ödevi\obj\Debug\8 Puzzle Ödevi.csproj.CoreCompileInputs.cache
+C:\Users\Fudge\source\repos\8 Puzzle Ödevi\8 Puzzle Ödevi\obj\Debug\8 Puzzle Ödevi.exe
+C:\Users\Fudge\source\repos\8 Puzzle Ödevi\8 Puzzle Ödevi\obj\Debug\8 Puzzle Ödevi.pdb
+C:\Users\Fudge\source\repos\173301014 - astar\8 Puzzle Ödevi\8 Puzzle Ödevi\bin\Debug\8 Puzzle Ödevi.exe.config
+C:\Users\Fudge\source\repos\173301014 - astar\8 Puzzle Ödevi\8 Puzzle Ödevi\bin\Debug\8 Puzzle Ödevi.exe
+C:\Users\Fudge\source\repos\173301014 - astar\8 Puzzle Ödevi\8 Puzzle Ödevi\bin\Debug\8 Puzzle Ödevi.pdb
+C:\Users\Fudge\source\repos\173301014 - astar\8 Puzzle Ödevi\8 Puzzle Ödevi\obj\Debug\8 Puzzle Ödevi.csprojAssemblyReference.cache
+C:\Users\Fudge\source\repos\173301014 - astar\8 Puzzle Ödevi\8 Puzzle Ödevi\obj\Debug\_8_Puzzle_Ödevi.Form1.resources
+C:\Users\Fudge\source\repos\173301014 - astar\8 Puzzle Ödevi\8 Puzzle Ödevi\obj\Debug\_8_Puzzle_Ödevi.Properties.Resources.resources
+C:\Users\Fudge\source\repos\173301014 - astar\8 Puzzle Ödevi\8 Puzzle Ödevi\obj\Debug\8 Puzzle Ödevi.csproj.GenerateResource.cache
+C:\Users\Fudge\source\repos\173301014 - astar\8 Puzzle Ödevi\8 Puzzle Ödevi\obj\Debug\8 Puzzle Ödevi.csproj.CoreCompileInputs.cache
+C:\Users\Fudge\source\repos\173301014 - astar\8 Puzzle Ödevi\8 Puzzle Ödevi\obj\Debug\8 Puzzle Ödevi.exe
+C:\Users\Fudge\source\repos\173301014 - astar\8 Puzzle Ödevi\8 Puzzle Ödevi\obj\Debug\8 Puzzle Ödevi.pdb

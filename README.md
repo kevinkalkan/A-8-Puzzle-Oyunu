@@ -1,2 +1,2 @@
-# A-8-Puzzle-Oyunu
-A* algoritması ile 8 taşlı puzzle oyunu
+# A-8-Puzzle Game
+Using A* algorithm for an 8-tiles game
